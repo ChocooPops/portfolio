@@ -1,0 +1,304 @@
+[
+    {
+    "Technologies" : { 
+        "LangageTechno" : [
+        {
+            "id" : 0, 
+            "nom" : "HTML", 
+            "image" : "html.png", 
+            "description" : "Langage de balisage conçu pour représenter les pages Web.",
+            "lien" : "https://developer.mozilla.org/fr/docs/Web/HTML"
+        }, 
+        {
+            "id" : 1, 
+            "nom" : "CSS", 
+            "image" : "css.png", 
+            "description" : "Langage informatique traduisant les feuilles de style en cascade.",
+            "lien" : "https://developer.mozilla.org/fr/docs/Web/CSS"
+        }, 
+        {
+            "id" : 2,
+            "nom" : "JavaScript", 
+            "image" : "js.png", 
+            "description" : "Langage de programmation de script employé dans des pages Web interactives.",
+            "lien" : "https://developer.mozilla.org/fr/docs/Web/JavaScript"
+        }, 
+        {
+            "id" : 3, 
+            "nom" : "Java", 
+            "image" : "java.png", 
+            "description" : "Langage de programmation de haut niveau orienté objet.",
+            "lien" : "https://www.java.com/fr/"
+        }, 
+        {
+            "id" : 4, 
+            "nom" : "C", 
+            "image" : "c.png", 
+            "description" : "Langage de programmation impératif, généraliste et de base niveau.",
+            "lien" : "https://www.cprogramming.com/"
+        }, 
+        {
+            "id" : 5, 
+            "nom" : "PHP", 
+            "image" : "php.png", 
+            "description" :  "Langage de programmation utilisé pour la pages Web dynamique via un serveur web.",
+            "lien" : "https://www.php.net/"
+        }, 
+        {
+            "id" : 6, 
+            "nom" : "Kotlin", 
+            "image" : "kotlin.png", 
+            "description" : "Langage de programmation orienté objet qui permet de compiler la machine virtuel Java.",
+            "lien" : "https://kotlinlang.org/"
+        }, 
+        {
+            "id" : 7, 
+            "nom" : "SQL",  
+            "image" : "sql.png", 
+            "description" : "Langage de requêtes structuréeservant à exploiter des bases de données relationnelles.",
+            "lien" : "https://www.oracle.com/fr/database/technologies/appdev/sql.html"
+        }, 
+        {
+            "id" : 8, 
+            "nom" : "NoSQL",  
+            "image" : "NoSQL.png", 
+            "description" : "Système de base de données dit “non remationnel” orientés objet et document.",
+            "lien" : "https://en.wikipedia.org/wiki/NoSQL"
+        }
+    ], 
+        "BDTechno" : [
+        {
+            "id" : 0, 
+            "nom" : "Oracle SQL", 
+            "image" : "oracleSQL.png", 
+            "description" : "Système de gestion de base de données relationnelles.",
+            "lien" : "https://www.oracle.com/fr/database/sqldeveloper/"
+        }, 
+        {
+            "id" : 1, 
+            "nom" : "phpMyAdmin", 
+            "image" : "phpMyAdmin.png", 
+            "description" : "Application Web de gestion pour les systèmes de gestion de base de données MySQL et MariaDB.",
+            "lien" : "https://www.phpmyadmin.net/"
+        }, 
+        {
+            "id" : 2,
+            "nom" : "MongoDB", 
+            "image" : "mongoDB.png", 
+            "description" : "Système de gestion de base de données orienté documents.",
+            "lien" : "https://www.mongodb.com/fr-fr"
+        }, 
+        {
+            "id" : 3, 
+            "nom" : "Docker", 
+            "image" : "docker.png", 
+            "description" : "Plateforme permettant de lancer certaines applications avec ses dépendances dans des conteneurs.",
+            "lien" : "https://www.docker.com/"
+        } 
+    ], 
+        "EDITechno" : [
+        {
+            "id" : 0, 
+            "nom" : "NetBeans", 
+            "image" : "netbeans.png", 
+            "description" : "Environnement de développement intégré permettant la prise en charge native tels que Java.",
+            "lien" : "https://netbeans.apache.org/front/main/index.html"
+        }, 
+        {
+            "id" : 1, 
+            "nom" : "Visual Studio Code", 
+            "image" : "visualStudioCode.png", 
+            "description" : "Editeur de code extensible incluant le débogage, l’IntelliSense et Git intégrées.",
+            "lien" : "https://code.visualstudio.com/"
+        }, 
+        {
+            "id" : 2,
+            "nom" : "Android Studio", 
+            "image" : "androidStudio.png", 
+            "description" : "Editeur de code extensible incluant le débogage, l’IntelliSense et Git intégrées.",
+            "lien" : "https://developer.android.com/studio"
+        }
+    ], 
+        "FrameworkTechno" : [
+        {
+            "id" : 0, 
+            "nom" : "Symfony", 
+            "image" : "symfony.png", 
+            "description" : "Ensemble de composants PHP ainsi qu’un framework MVC écrit en PHP.",
+            "lien" : "https://symfony.com/"
+        }, 
+        {
+            "id" : 1,
+            "nom" : "Vue.js", 
+            "image" : "vueJS.png", 
+            "description" : "Framework JavaScript utilisé pour construire des applications web monopages.",
+            "lien" : "https://vuejs.org/"
+        }
+    ]
+    }, 
+
+    "Projets" : {
+        "ProjetsMajeurs" : [
+            {
+                "id" : 0,
+                "nom" :"LCGraphe", 
+                "image" : [
+                    "graphe1.png"
+                ],
+                "description" : "Interface Homme-Machine utilisant le système de graphe afin de guider l’utilisateur d’un point A à un point B, en veillant à ce qu’il emprunte le chemin le plus rapide, le plus court, et le plus sûre. \n Cette application charge un graphe à l’aide d’informations stockés dans un fichier csv (une liste d’adjacence et une liste des successeurs).",
+                "lien" : "https://github.com/ChocooPops/Graphe"
+            }, 
+            {
+                "id" : 1,
+                "nom" : "CrousKebab", 
+                "image" : [
+                    "kebab.png"
+                ],
+                "description" : "Le premier site Web (non dynamique) que j’ai développé. \n Ce site à pour but de promouvoir la vitrine d’un restaurant Crous spécialiser dans les kebabs. \n Il y a également la possibilité de se renseigner sur les produits, et les engagements fictifs de ce nouveau restaurants pour les étudiants.",
+                "lien" : "https://github.com/ChocooPops/CrousResto"
+            }, 
+            {
+                "id" : 2,
+                "nom" : "Sportify",
+                "image" : [
+                    "sportify.png"
+                ],
+                "description" : "Site Web dynamique ayant plusieurs fonctionnalités tel un réseau social sur le sport. \n Possibilité de publier des actualités, de commenter, de liker, de faire des pronostics, de personnaliser son avatar en achetant des badges dans une boutique. \n Il y a un système de point que l’on peut utiliser pour faire des paries et gagner en jouant à un mini jeu style doodle jump.",
+                "lien" : "https://github.com/ChocooPops/Sportify"
+            }
+        ], 
+        "ProjetsMineurs" : [
+            {
+                "id" : 0,
+                "nom" :"MVC_Qual.dev",
+                "image" : [
+                    "TP1.png"
+                ],
+                "description" : "Interface Homme-Machine utilisant l'architecture MVC. Elle traite certaines données d'une promotion fictive d'étudiant (numéro, nom, prénom, bac, département) afin d'en faire des statistiques. L'interafce illsutre ses données par un diagramme baton, un camenbert et une liste. L'utilisateur peut alors gérer ses données en rajouter ou en supprimant un étudiant, ou en modifiant ses données.",
+                "lien" : "https://github.com/ChocooPops/TPMVC_etu"
+            }, 
+            {
+                "id" : 1,
+                "nom" : "Graphics_Editor Shape",
+                "image" : [
+                    "TP2.png"
+                ],
+                "description" :  "Interface Homme-Machine utilisant le design pattern Composite et Factory. Elle prend la forme d'un éditeur de scènes virtuelles, permettant d'ajouter ou de supprimer différents formes géométriques avec une couleur, des coordonnées et des dimensions modiafiables. L'utilisateeur peut aussi regrouper un ensemble d'objet et ainsi permettre la création d'une hiérarchie d'objets, tout en élabborant une arborescence.",
+                "lien" : "https://github.com/ChocooPops/Graphics_Editor_Shape"
+            }, 
+            {
+                "id" : 2,
+                "nom" : "Weather_API",
+                "image" : [
+                    "TP3.png"
+                ],
+                "description" : "Interface Homme-Machine récupérant des données depuis une API pour les stocker dans une base de données SQLite3. En saisissant le nom d'une ville, grâce à des requetes HTTP, l'utilisateur peut alors voir s'afficher un bulletin meteo, avec la température, le temps, le niveau de pollution, la qualité de l'air ...",
+                "lien" : "https://github.com/ChocooPops/TPWeather_etu"
+            }, 
+            {
+                "id" : 3,
+                "nom" : "Pendu",
+                "image" : [
+                ],
+                "description" : "Application Web reprenant les codes du pendu. L'utilisateur doit créer un compte puis s'inscrire pour y jouer. Un mots aléatoire est alors choisis parmie une liste de 4000 mots stokés dans une base de données en SQL. Le joueur peut alors commencer à trouver le bon mots avec une marge d'erreur à 8. Son score est ensuite enregistrer pour en faire un classement avec d'autre joueurs.",
+                "lien" : "https://github.com/ChocooPops/Jeu_du_Pendu"
+            }, 
+            {
+                "id" : 4,
+                "nom" : "Projet_JS_API",
+                "image" : [
+                    "jsAPI.png"
+                ],
+                "description" : "Site web communiquant avec une API qui transmet des images aléatoires. Possibiliter de gérer ces images en les plaçant et en les réparpillant sur le site.",
+                "lien" : "https://github.com/ChocooPops/Projet_JS_API"
+            }, 
+            {
+                "id" : 5,
+                "nom" : "Projet_Bezna",
+                "image" : [
+                    "bezna.png"
+                ],
+                "description" : "Ce projet est un jeu vidéo tour par tour fonctionnant comme un RPG. L'utilisateur doit d'abord créer un compte pour S'y connecter. Il est alors libre de pouvoir personnaliser son avatar, de choisir le terrain, et de choisir un monstre à affronter parmis 6 choix différents. (Les modèles en pixel art ont été fait maison)",
+                "lien" : "https://github.com/ChocooPops/Jeu-vid-o-Tour-par-Tour"
+            }
+        ], 
+        "ProjetsPerso" : [
+            {
+                "id" : 0,
+                "nom" : "Ezougla’s Adventure",
+                "image" : [
+                    "ezougla.gif"
+                ],
+                "description" : "Jeu vidéo d’aventure en cours de développement. \n Ce prochain jeu s’inspire des jeux vidéo Zelda des années 80-90. Il reprend les codes d’aventure de ses anciens jeux, avec des outils de combats et d’attaques. \n La direction artistique est en pixel art, avec des animations et un décore fait maison.",
+                "lien" : "https://github.com/ChocooPops/Citrouille-s_Adventure"
+            }, 
+            {
+                "id" : 1,
+                "nom" : "Crazy Road",
+                "image" : [
+                    "crazyRoad.png"
+                ],
+                "description" : "Jeux vidéo en cours de développement. Il reprend le gameplay du jeux mobiles Crossy Road, avec une direction artistique en pixel art 2D. Le joueur doit faire avancer son avatar le plus loin possible en évitant les obstacles, pendant que le terrain est généré de manière procédurales",
+                "lien" : "https://github.com/ChocooPops/CrossyRoad"
+            }
+        ]
+    }, 
+
+    "Competences" : [
+        {
+            "titre" : "Administrer des systèmes informatiques communicants complexes", 
+            "description" : [
+                "Configurer une machine avec son adresse IP, afin qu'elle puisse communiquer avec le reste du réseau.",
+                "Maitrise de différents protocole pour que différentes machines puissent communiquer entre elle.",  
+                "Capable de réaliser des capture trames (wireshark)."
+            ]
+        }, 
+        {
+            "titre" : "Création d’une base de données", 
+            "description" : [
+                "Maitrise des requêtes de base en SQL (SELECT, CREATE TABLE, UPDATE, DELETE, INSERT).",
+                "Maitrise des procédures et des fonctions avancés en PL/SQL.",  
+                "Capable d'automatiser le comportements d'une base de donnée à l'aide de Trigger en PL/SQL.", 
+                "Capable de répondre aux besoins d'un client à propos des informations qu'ils souhaitent stocker dans une base de donnée."
+            ]
+        }, 
+        {
+            "titre" : "Optimiser des applications complexes", 
+            "description" : [
+                "Maîtrise du modèle MVC (model, view, controller) et du package des classes objets.",
+                "Maîtrise du Design Pattern Composite.",  
+                "Maîtrise du Design Pattern Shape Factory.", 
+                "Maîtrise du Design Pattern Strategy.", 
+                "Respect des normes de conventions lors d'un développement."
+            ]
+        }, 
+        {
+            "titre" : "Réaliser et développer une application", 
+            "description" : [
+                "Réalisation d'une interface homme-machine (IHM) en langage orienté objet.",
+                "Développement d'un site Web / d'une application Web dynamique déployable sur le réseau.",  
+                "Programmation en Front-End (HTML, CSS, JavaScript).", 
+                "Programmation en Back-End (PHP, SQL, JavaScript)."
+            ]
+        }, 
+        {
+            "titre" : "Montage et configuration d’un poste pour le développement", 
+            "description" : [
+                "Programmation système (Bash, assembleur, C shell).",
+                "Installation, configuration et gestion des systèmes d'exploitation (windows & Linux).",  
+                "Maîtrise des concepts de base de la virtualisation.", 
+                "Connaissance des ligne de commandes primordiales sous Linux.",
+                "Manipulation d'hardware pour le montage d'un ordinateurs de A à Z."
+            ]
+        }, 
+        {
+            "titre" : "Travailler et collaborer dans une équipe informatique", 
+            "description" : [
+                "Maîtrise de l'outil Git pour la gestion d'un dépot de projet commun (GitForge/GitHub).",
+                "Réalisation d'un cahier des charges (Méthode SMART, MoSCoW, GANT, découpage, hiérarchisation et attribution des tâches).",  
+                "Développement d'un projet à l'aide de la méthode AGILE."
+            ]
+        }
+    ]
+    }
+]
