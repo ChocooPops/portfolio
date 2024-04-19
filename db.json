@@ -246,6 +246,7 @@
 
     "Competences" : [
         {
+            "id" : 0, 
             "titre" : "Administrer des systèmes informatiques communicants complexes", 
             "description" : [
                 "Configurer une machine avec son adresse IP, afin qu'elle puisse communiquer avec le reste du réseau.",
@@ -254,6 +255,7 @@
             ]
         }, 
         {
+            "id" : 1, 
             "titre" : "Création d’une base de données", 
             "description" : [
                 "Maitrise des requêtes de base en SQL (SELECT, CREATE TABLE, UPDATE, DELETE, INSERT).",
@@ -263,6 +265,7 @@
             ]
         }, 
         {
+            "id" : 2, 
             "titre" : "Optimiser des applications complexes", 
             "description" : [
                 "Maîtrise du modèle MVC (model, view, controller) et du package des classes objets.",
@@ -273,6 +276,7 @@
             ]
         }, 
         {
+            "id" : 3, 
             "titre" : "Réaliser et développer une application", 
             "description" : [
                 "Réalisation d'une interface homme-machine (IHM) en langage orienté objet.",
@@ -282,6 +286,7 @@
             ]
         }, 
         {
+            "id" : 4, 
             "titre" : "Montage et configuration d’un poste pour le développement", 
             "description" : [
                 "Programmation système (Bash, assembleur, C shell).",
@@ -292,6 +297,7 @@
             ]
         }, 
         {
+            "id" : 5, 
             "titre" : "Travailler et collaborer dans une équipe informatique", 
             "description" : [
                 "Maîtrise de l'outil Git pour la gestion d'un dépot de projet commun (GitForge/GitHub).",
