@@ -239,7 +239,7 @@
                     "crazyRoad.png"
                 ],
                 "description" : "Jeux vidéo en cours de développement. Il reprend le gameplay du jeux mobiles Crossy Road, avec une direction artistique en pixel art 2D. Le joueur doit faire avancer son avatar le plus loin possible en évitant les obstacles, pendant que le terrain est généré de manière procédurales",
-                "lien" : "https://github.com/ChocooPops/CrossyRoad"
+                "lien" : "https://github.com/ChocooPops/Crazy_Road"
             }
         ]
     }, 
