@@ -1,5 +1,15 @@
 [
     {
+    "Accueil" : {
+        "imageCarrousel" : [
+            "citrouille.png", 
+            "sportify.png", 
+            "sportyJump.png", 
+            "graphe.png", 
+            "kebab.png", 
+            "crossyRoad.png"
+        ]
+    },
     "Technologies" : { 
         "LangageTechno" : [
         {
