@@ -71,7 +71,7 @@
         {
             "id" : 8, 
             "nom" : "NoSQL",  
-            "image" : "NoSQL.png", 
+            "image" : "nosql.png", 
             "description" : "Système de base de données dit “non relationnels” orientés objet et document.",
             "lien" : "https://en.wikipedia.org/wiki/NoSQL"
         }
@@ -80,7 +80,7 @@
         {
             "id" : 0, 
             "nom" : "Oracle SQL", 
-            "image" : "oracleSQL.png", 
+            "image" : "oraclesql.png", 
             "description" : "Système de gestion de base de données relationnelles.",
             "lien" : "https://www.oracle.com/fr/database/sqldeveloper/"
         }, 
@@ -140,7 +140,7 @@
         {
             "id" : 1,
             "nom" : "Vue.js", 
-            "image" : "vueJS.png", 
+            "image" : "vuejs.png", 
             "description" : "Framework JavaScript utilisé pour construire des applications web monopages.",
             "lien" : "https://vuejs.org/"
         }
