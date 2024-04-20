@@ -229,7 +229,7 @@
                 ],
                 "description" : "Site web communiquant avec une API qui transmet des images aléatoires. Possibiliter de gérer ces images en les plaçant et en les réparpillant sur le site.",
                 "lien" : "https://github.com/ChocooPops/Projet_JS_API"
-            },
+            }
         ], 
         "ProjetsPerso" : [
             {
