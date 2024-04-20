@@ -80,7 +80,7 @@
         {
             "id" : 0, 
             "nom" : "Oracle SQL", 
-            "image" : "oraclesql.png", 
+            "image" : "oracle.png", 
             "description" : "Système de gestion de base de données relationnelles.",
             "lien" : "https://www.oracle.com/fr/database/sqldeveloper/"
         }, 
@@ -140,7 +140,7 @@
         {
             "id" : 1,
             "nom" : "Vue.js", 
-            "image" : "vuejs.png", 
+            "image" : "vue.png", 
             "description" : "Framework JavaScript utilisé pour construire des applications web monopages.",
             "lien" : "https://vuejs.org/"
         }
