@@ -227,6 +227,7 @@
                 "id" : 3,
                 "nom" : "Pendu",
                 "image" : [
+                    "pendu1.png"
                 ],
                 "description" : "Application Web reprenant les codes du pendu. L'utilisateur doit créer un compte puis s'inscrire et y jouer. Un mot aléatoire est alors choisi parmi une liste de 4000 mots stockés dans une base de données en SQL. Le joueur peut alors commencer à trouver le bon mot avec une marge d'erreur à 8 possibilités. Son score est ensuite enregistré pour en faire un classement avec d'autres joueurs.",
                 "lien" : "https://github.com/ChocooPops/Jeu_du_Pendu"
