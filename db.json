@@ -44,14 +44,14 @@
             "id" : 4, 
             "nom" : "C", 
             "image" : "c.png", 
-            "description" : "Langage de programmation impératif, généraliste et de base niveau.",
+            "description" : "Langage de programmation impératif, généraliste et de bas niveau.",
             "lien" : "https://www.cprogramming.com/"
         }, 
         {
             "id" : 5, 
             "nom" : "PHP", 
             "image" : "php.png", 
-            "description" :  "Langage de programmation utilisé pour la pages Web dynamique via un serveur web.",
+            "description" :  "Langage de programmation utilisé pour les pages Web dynamiques via un serveur web.",
             "lien" : "https://www.php.net/"
         }, 
         {
@@ -65,14 +65,14 @@
             "id" : 7, 
             "nom" : "SQL",  
             "image" : "sql.png", 
-            "description" : "Langage de requêtes structuréeservant à exploiter des bases de données relationnelles.",
+            "description" : "Langage de requêtes structuré et servant à exploiter des bases de données relationnelles.",
             "lien" : "https://www.oracle.com/fr/database/technologies/appdev/sql.html"
         }, 
         {
             "id" : 8, 
             "nom" : "NoSQL",  
             "image" : "NoSQL.png", 
-            "description" : "Système de base de données dit “non remationnel” orientés objet et document.",
+            "description" : "Système de base de données dit “non relationnels” orientés objet et document.",
             "lien" : "https://en.wikipedia.org/wiki/NoSQL"
         }
     ], 
@@ -111,7 +111,7 @@
             "id" : 0, 
             "nom" : "NetBeans", 
             "image" : "netbeans.png", 
-            "description" : "Environnement de développement intégré permettant la prise en charge native tels que Java.",
+            "description" : "Environnement de développement intégré permettant la prise en charge native telle que Java.",
             "lien" : "https://netbeans.apache.org/front/main/index.html"
         }, 
         {
@@ -125,7 +125,7 @@
             "id" : 2,
             "nom" : "Android Studio", 
             "image" : "androidStudio.png", 
-            "description" : "Editeur de code extensible incluant le débogage, l’IntelliSense et Git intégrées.",
+            "description" : "Environnement de développement pour développer des applications mobiles Android. Il est basé sur IntelliJ IDEA et utilise le moteur de production Gradle.",
             "lien" : "https://developer.android.com/studio"
         }
     ], 
@@ -160,7 +160,7 @@
                     "Graphe/graphe5.png", 
                     "Graphe/graphe6.png"
                 ],
-                "description" : "Interface Homme-Machine utilisant le système de graphe afin de guider l’utilisateur d’un point A à un point B, en veillant à ce qu’il emprunte le chemin le plus rapide, le plus court, et le plus sûre. \n Cette application charge un graphe à l’aide d’informations stockés dans un fichier csv (une liste d’adjacence et une liste des successeurs).",
+                "description" : "Interface Homme-Machine utilisant le système de graphe afin de guider l’utilisateur d’un point A à un point B, en veillant à ce qu’il emprunte le chemin le plus rapide, le plus court, et le plus sûre. \n Cette application charge un graphe à l’aide d’informations stockées dans un fichier CSV (une liste d’adjacence et une liste des successeurs indiquant les points d'intérêts reliés par des chemins).",
                 "lien" : "https://github.com/ChocooPops/Graphe"
             }, 
             {
@@ -173,7 +173,7 @@
                     "Kebab/kebab4.png",
                     "Kebab/kebab5.png"
                 ],
-                "description" : "Le premier site Web (non dynamique) que j’ai développé. \n Ce site à pour but de promouvoir la vitrine d’un restaurant Crous spécialiser dans les kebabs. \n Il y a également la possibilité de se renseigner sur les produits, et les engagements fictifs de ce nouveau restaurants pour les étudiants.",
+                "description" : "Le premier site Web (non dynamique) que j’ai développé. \n Ce site a pour but de promouvoir la vitrine d’un restaurant Crous spécialiser dans les kebabs. \n Il y a également la possibilité de se renseigner sur les produits, la géocalisation et les engagements fictifs de ce nouveau restaurant pour les étudiants.",
                 "lien" : "https://github.com/ChocooPops/CrousResto"
             }, 
             {
@@ -191,7 +191,7 @@
                     "Sportify/sportify9.png",
                     "Sportify/sportify10.png"
                 ],
-                "description" : "Site Web dynamique ayant plusieurs fonctionnalités tel un réseau social sur le sport. \n Possibilité de publier des actualités, de commenter, de liker, de faire des pronostics, de personnaliser son avatar en achetant des badges dans une boutique. \n Il y a un système de point que l’on peut utiliser pour faire des paries et gagner en jouant à un mini jeu style doodle jump.",
+                "description" : "Site Web dynamique ayant plusieurs fonctionnalités tel un réseau social sur le sport. \n Il y a la possibilité de publier des actualités, de commenter, de liker, de faire des pronostics, et de personnaliser son avatar en achetant des badges dans une boutique. \n Il y a un système de points que l’on peut utiliser pour faire des paries et gagner en jouant à un mini-jeu style doodle jump.",
                 "lien" : "https://github.com/ChocooPops/Sportify"
             }
         ], 
@@ -202,7 +202,7 @@
                 "image" : [
                     "TP1.png"
                 ],
-                "description" : "Interface Homme-Machine utilisant l'architecture MVC. Elle traite certaines données d'une promotion fictive d'étudiant (numéro, nom, prénom, bac, département) afin d'en faire des statistiques. L'interafce illsutre ses données par un diagramme baton, un camenbert et une liste. L'utilisateur peut alors gérer ses données en rajouter ou en supprimant un étudiant, ou en modifiant ses données.",
+                "description" : "Interface Homme-Machine utilisant l'architecture MVC. Elle traite certaines données d'une promotion fictive d'étudiant (numéro, nom, prénom, bac, département) afin d'en faire des statistiques. L'interface illustre ses données par un diagramme bâton, un camembert et une liste. L'utilisateur peut alors gérer ses données en rajouter ou en supprimant un étudiant, ou en modifiant ses données.",
                 "lien" : "https://github.com/ChocooPops/TPMVC_etu"
             }, 
             {
@@ -211,7 +211,7 @@
                 "image" : [
                     "TP2.png"
                 ],
-                "description" :  "Interface Homme-Machine utilisant le design pattern Composite et Factory. Elle prend la forme d'un éditeur de scènes virtuelles, permettant d'ajouter ou de supprimer différents formes géométriques avec une couleur, des coordonnées et des dimensions modiafiables. L'utilisateeur peut aussi regrouper un ensemble d'objet et ainsi permettre la création d'une hiérarchie d'objets, tout en élabborant une arborescence.",
+                "description" :  "Interface Homme-Machine utilisant le design pattern Composite et Factory. Elle prend la forme d'un éditeur de scènes virtuelles, permettant d'ajouter ou de supprimer différentes formes géométriques avec une couleur, des coordonnées et des dimensions modifiables. L'utilisateur peut aussi regrouper un ensemble d'objets et ainsi permettre la création d'une hiérarchie d'objets, tout en élaborant une arborescence.",
                 "lien" : "https://github.com/ChocooPops/Graphics_Editor_Shape"
             }, 
             {
@@ -220,7 +220,7 @@
                 "image" : [
                     "TP3.png"
                 ],
-                "description" : "Interface Homme-Machine récupérant des données depuis une API pour les stocker dans une base de données SQLite3. En saisissant le nom d'une ville, grâce à des requetes HTTP, l'utilisateur peut alors voir s'afficher un bulletin meteo, avec la température, le temps, le niveau de pollution, la qualité de l'air ...",
+                "description" : "Interface Homme-Machine récupérant des données depuis une API pour les stocker dans une base de données SQLite3. En saisissant le nom d'une ville, grâce à des requêtes HTTP, l'utilisateur peut alors voir s'afficher un bulletin météo, avec la température, le temps, le niveau de pollution, la qualité de l'air ...",
                 "lien" : "https://github.com/ChocooPops/TPWeather_etu"
             }, 
             {
@@ -228,17 +228,8 @@
                 "nom" : "Pendu",
                 "image" : [
                 ],
-                "description" : "Application Web reprenant les codes du pendu. L'utilisateur doit créer un compte puis s'inscrire pour y jouer. Un mots aléatoire est alors choisis parmie une liste de 4000 mots stokés dans une base de données en SQL. Le joueur peut alors commencer à trouver le bon mots avec une marge d'erreur à 8. Son score est ensuite enregistrer pour en faire un classement avec d'autre joueurs.",
+                "description" : "Application Web reprenant les codes du pendu. L'utilisateur doit créer un compte puis s'inscrire et y jouer. Un mot aléatoire est alors choisi parmi une liste de 4000 mots stockés dans une base de données en SQL. Le joueur peut alors commencer à trouver le bon mot avec une marge d'erreur à 8 possibilités. Son score est ensuite enregistré pour en faire un classement avec d'autres joueurs.",
                 "lien" : "https://github.com/ChocooPops/Jeu_du_Pendu"
-            }, 
-            {
-                "id" : 4,
-                "nom" : "Projet_JS_API",
-                "image" : [
-                    "jsAPI.png"
-                ],
-                "description" : "Site web communiquant avec une API qui transmet des images aléatoires. Possibiliter de gérer ces images en les plaçant et en les réparpillant sur le site.",
-                "lien" : "https://github.com/ChocooPops/Projet_JS_API"
             }
         ], 
         "ProjetsPerso" : [
@@ -253,7 +244,7 @@
                     "Ezougla/ezougla5.png",
                     "Ezougla/ezougla6.png"
                 ],
-                "description" : "Jeu vidéo d’aventure en cours de développement. \n Ce prochain jeu s’inspire des jeux vidéo Zelda des années 80-90. Il reprend les codes d’aventure de ses anciens jeux, avec des outils de combats et d’attaques. \n La direction artistique est en pixel art, avec des animations et un décore fait maison.",
+                "description" : "Jeu vidéo d’aventure en cours de développement. \n Ce prochain jeu s’inspire des jeux vidéo Zelda des années 80-90. Il reprend les codes d’aventure de ses anciens jeux, avec des outils de combat, d’attaque et de défense. \n La direction artistique est en pixel art, avec des animations et un décor fait maison.",
                 "lien" : "https://github.com/ChocooPops/Citrouille-s_Adventure"
             }, 
             {
@@ -265,7 +256,7 @@
                     "CrazyRoad/crazyRoad3.png",
                     "CrazyRoad/crazyRoad4.png"
                 ],
-                "description" : "Jeux vidéo en cours de développement. Il reprend le gameplay du jeux mobiles Crossy Road, avec une direction artistique en pixel art 2D. Le joueur doit faire avancer son avatar le plus loin possible en évitant les obstacles, pendant que le terrain est généré de manière procédurales",
+                "description" : "Jeux vidéo en cours de développement. Il reprend le gameplay du jeu mobile Crossy Road, avec une direction artistique en pixel art 2D. Le joueur doit faire avancer son avatar le plus loin possible en évitant les obstacles, pendant que le terrain généré de manière procédurale recule lentement.",
                 "lien" : "https://github.com/ChocooPops/Crazy_Road"
             }, 
             {
@@ -279,7 +270,7 @@
                     "Bezna/bezna5.png",
                     "Bezna/bezna6.png"
                 ],
-                "description" : "Ce projet est un jeu vidéo tour par tour fonctionnant comme un RPG. L'utilisateur doit d'abord créer un compte pour S'y connecter. Il est alors libre de pouvoir personnaliser son avatar, de choisir le terrain, et de choisir un monstre à affronter parmis 6 choix différents. (Les modèles en pixel art ont été fait maison)",
+                "description" : "Ce projet est un jeu vidéo tour par tour fonctionnant comme un RPG. L'utilisateur doit d'abord créer un compte pour s'y connecter. Il est alors libre de pouvoir personnaliser son avatar, de choisir le terrain, et de choisir un monstre à affronter parmi 6 choix différents. (Les modèles en pixel art ont été fait maison)",
                 "lien" : "https://github.com/ChocooPops/Jeu-vid-o-Tour-par-Tour"
             }
         ]
@@ -291,8 +282,8 @@
             "titre" : "Administrer des systèmes informatiques communicants complexes", 
             "description" : [
                 "Configurer une machine avec son adresse IP, afin qu'elle puisse communiquer avec le reste du réseau.",
-                "Maitrise de différents protocole pour que différentes machines puissent communiquer entre elle.",  
-                "Capable de réaliser des capture trames (wireshark)."
+                "Maitrise de différents protocoles pour que différentes machines puissent communiquer entre elle-même.",  
+                "Capable de réaliser et d'analyser des captures trames (Wireshark)."
             ]
         }, 
         {
@@ -300,9 +291,9 @@
             "titre" : "Création d’une base de données", 
             "description" : [
                 "Maitrise des requêtes de base en SQL (SELECT, CREATE TABLE, UPDATE, DELETE, INSERT).",
-                "Maitrise des procédures et des fonctions avancés en PL/SQL.",  
-                "Capable d'automatiser le comportements d'une base de donnée à l'aide de Trigger en PL/SQL.", 
-                "Capable de répondre aux besoins d'un client à propos des informations qu'ils souhaitent stocker dans une base de donnée."
+                "Maitrise des procédures et des fonctions avancées en PL/SQL.",  
+                "Capable d'automatiser le comportement d'une base de données à l'aide de Trigger en PL/SQL.", 
+                "Capable de répondre aux besoins d'un client à propos des informations qu'ils souhaitent stocker dans une base de données."
             ]
         }, 
         {
@@ -323,7 +314,7 @@
                 "Réalisation d'une interface homme-machine (IHM) en langage orienté objet.",
                 "Développement d'un site Web / d'une application Web dynamique déployable sur le réseau.",  
                 "Programmation en Front-End (HTML, CSS, JavaScript).", 
-                "Programmation en Back-End (PHP, SQL, JavaScript)."
+                "Programmation en Back-End (PHP, SQL)."
             ]
         }, 
         {
@@ -331,9 +322,9 @@
             "titre" : "Montage et configuration d’un poste pour le développement", 
             "description" : [
                 "Programmation système (Bash, assembleur, C shell).",
-                "Installation, configuration et gestion des systèmes d'exploitation (windows & Linux).",  
+                "Installation, configuration et gestion des systèmes d'exploitation (Windows & Linux).",  
                 "Maîtrise des concepts de base de la virtualisation.", 
-                "Connaissance des ligne de commandes primordiales sous Linux.",
+                "Connaissance des lignes de commandes primordiales sous Linux.",
                 "Manipulation d'hardware pour le montage d'un ordinateurs de A à Z."
             ]
         }, 
@@ -341,7 +332,7 @@
             "id" : 5, 
             "titre" : "Travailler et collaborer dans une équipe informatique", 
             "description" : [
-                "Maîtrise de l'outil Git pour la gestion d'un dépot de projet commun (GitForge/GitHub).",
+                "Maîtrise de l'outil Git pour la gestion d'un dépôt de projet commun (GitForge/GitHub).",
                 "Réalisation d'un cahier des charges (Méthode SMART, MoSCoW, GANT, découpage, hiérarchisation et attribution des tâches).",  
                 "Développement d'un projet à l'aide de la méthode AGILE."
             ]
