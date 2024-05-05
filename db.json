@@ -8,6 +8,14 @@
             "graphe.png", 
             "kebab.png",
             "crossyRoad.png"
+        ], 
+        "imageCarrousel" : [
+            "citrouille.png", 
+            "sportifyMobile.png", 
+            "sportyJump.png", 
+            "graphe.png", 
+            "kebabMobile.png",
+            "crossyRoad.png"
         ]
     },
     "Technologies" : { 
