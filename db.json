@@ -131,7 +131,7 @@
         }, 
         {
             "id" : 3,
-            "nom" : "AppScript", 
+            "nom" : "Apps Script", 
             "image" : "appScript.png", 
             "description" : "Éditeur de code en ligne très proche de JavaScript permettant d'accéder plus facilement aux données des applications Goole.",
             "lien" : "https://developers.google.com/apps-script?hl=fr"
@@ -170,7 +170,7 @@
         }, 
         {
             "id" : 2, 
-            "nom" : "AppSheet", 
+            "nom" : "appsheet", 
             "image" : "appSheet.png", 
             "description" : "Plate-forme de développement sans code qui permet aux utilisateurs de créer des applications mobiles d'administration de données.",
             "lien" : "https://about.appsheet.com/home/"
@@ -179,7 +179,7 @@
             "id" : 3, 
             "nom" : "Notion", 
             "image" : "notion.png", 
-            "description" : "Application de prise de notes, de gestion de projet et de collaboration. Permet d'organiser les informations tels que des notes, des bases de données, des listes de tâches ...",
+            "description" : "Application de prise de notes, de gestion de projets et de collaboration. Permets d'organiser les informations telles que des notes, des bases de données, des listes de tâches ...",
             "lien" : "https://www.notion.so/fr-fr"
         }, 
         {
@@ -207,7 +207,7 @@
             "id" : 7, 
             "nom" : "Aseprite", 
             "image" : "aseprite.png", 
-            "description" : "Éditeur d'images commercial conçu principalement pour le dessin et l'animation en pixel art.",
+            "description" : "Éditeur d'images commerciales conçues principalement pour le dessin et l'animation en pixel art.",
             "lien" : "https://aseprite.org/"
         }
     ]
