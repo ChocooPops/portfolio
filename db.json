@@ -191,21 +191,21 @@
             "lien" : ""
         }, 
         {
-            "id" : 4, 
+            "id" : 5, 
             "nom" : "GitLab", 
             "image" : "gitlab.png", 
             "description" : "",
             "lien" : ""
         }, 
         {
-            "id" : 5, 
+            "id" : 6, 
             "nom" : "Figma", 
             "image" : "figma.png", 
             "description" : "",
             "lien" : ""
         }, 
         {
-            "id" : 6, 
+            "id" : 7, 
             "nom" : "Aseprite", 
             "image" : "aseprite.png", 
             "description" : "",
