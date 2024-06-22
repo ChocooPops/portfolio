@@ -133,8 +133,8 @@
             "id" : 3,
             "nom" : "AppScript", 
             "image" : "appScript.png", 
-            "description" : "",
-            "lien" : ""
+            "description" : "Éditeur de code en ligne très proche de JavaScript permettant d'accéder plus facilement aux données des applications Goole.",
+            "lien" : "https://developers.google.com/apps-script?hl=fr"
         }
     ], 
         "FrameworkTechno" : [
@@ -165,50 +165,50 @@
             "id" : 1, 
             "nom" : "n8n", 
             "image" : "n8n.png", 
-            "description" : "",
-            "lien" : ""
+            "description" : "Application permettant de créer des flux de travail (workflow) en no-code afin de communiquer avec d'autres services (requête API).",
+            "lien" : "https://n8n.io/?utm_source=paid_google&utm_medium=cpc_google&utm_campaign=google_sem_brand_XX_prospecting_12%2F23&utm_content=Brand-Exact&utm_term=n8n&gad_source=1&gclid=CjwKCAjw7NmzBhBLEiwAxrHQ-Xpc9xwV2laCbLZGf967LkNZaUnFBGW1k5gJM7CpDoRoADNdkVZGMhoCpw4QAvD_BwE"
         }, 
         {
             "id" : 2, 
             "nom" : "AppSheet", 
-            "image" : "appsheet.png", 
-            "description" : "",
-            "lien" : ""
+            "image" : "appSheet.png", 
+            "description" : "Plate-forme de développement sans code qui permet aux utilisateurs de créer des applications mobiles d'administration de données.",
+            "lien" : "https://about.appsheet.com/home/"
         }, 
         {
             "id" : 3, 
             "nom" : "Notion", 
             "image" : "notion.png", 
-            "description" : "",
-            "lien" : ""
+            "description" : "Application de prise de notes, de gestion de projet et de collaboration. Permet d'organiser les informations tels que des notes, des bases de données, des listes de tâches ...",
+            "lien" : "https://www.notion.so/fr-fr"
         }, 
         {
             "id" : 4, 
             "nom" : "GitHub", 
             "image" : "github.png", 
-            "description" : "",
-            "lien" : ""
+            "description" : "Service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git.",
+            "lien" : "https://github.com/"
         }, 
         {
             "id" : 5, 
             "nom" : "GitLab", 
             "image" : "gitlab.png", 
-            "description" : "",
-            "lien" : ""
+            "description" : "Logiciel libre de forge basé sur git proposant les fonctionnalités de wiki, un système de suivi des bugs, l’intégration continue et la livraison continue.",
+            "lien" : "https://about.gitlab.com/"
         }, 
         {
             "id" : 6, 
             "nom" : "Figma", 
             "image" : "figma.png", 
-            "description" : "",
-            "lien" : ""
+            "description" : "Éditeur de graphiques vectoriels et un outil de prototypage. L'ensemble des fonctionnalités est axé sur l'utilisation dans la conception de l'interface utilisateur et de l'expérience utilisateur.",
+            "lien" : "https://www.figma.com/fr-fr/"
         }, 
         {
             "id" : 7, 
             "nom" : "Aseprite", 
             "image" : "aseprite.png", 
-            "description" : "",
-            "lien" : ""
+            "description" : "Éditeur d'images commercial conçu principalement pour le dessin et l'animation en pixel art.",
+            "lien" : "https://aseprite.org/"
         }
     ]
     },
