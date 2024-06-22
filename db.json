@@ -105,14 +105,7 @@
             "image" : "mongoDB.png", 
             "description" : "Système de gestion de base de données orienté documents.",
             "lien" : "https://www.mongodb.com/fr-fr"
-        }, 
-        {
-            "id" : 3, 
-            "nom" : "Docker", 
-            "image" : "docker.png", 
-            "description" : "Plateforme permettant de lancer certaines applications avec ses dépendances dans des conteneurs.",
-            "lien" : "https://www.docker.com/"
-        } 
+        }
     ], 
         "EDITechno" : [
         {
@@ -135,6 +128,13 @@
             "image" : "androidStudio.png", 
             "description" : "Environnement de développement pour développer des applications mobiles Android. Il est basé sur IntelliJ IDEA et utilise le moteur de production Gradle.",
             "lien" : "https://developer.android.com/studio"
+        }, 
+        {
+            "id" : 3,
+            "nom" : "AppScript", 
+            "image" : "appScript.png", 
+            "description" : "",
+            "lien" : ""
         }
     ], 
         "FrameworkTechno" : [
@@ -153,8 +153,66 @@
             "lien" : "https://vuejs.org/"
         }
     ]
-    }, 
-
+    },
+        "OutilTechno" : [
+        {
+            "id" : 0, 
+            "nom" : "Docker", 
+            "image" : "docker.png", 
+            "description" : "Plateforme permettant de lancer certaines applications avec ses dépendances dans des conteneurs.",
+            "lien" : "https://www.docker.com/"
+        }, 
+        {
+            "id" : 1, 
+            "nom" : "n8n", 
+            "image" : "n8n.png", 
+            "description" : "",
+            "lien" : ""
+        }, 
+        {
+            "id" : 2, 
+            "nom" : "AppSheet", 
+            "image" : "appsheet.png", 
+            "description" : "",
+            "lien" : ""
+        }, 
+        {
+            "id" : 3, 
+            "nom" : "Notion", 
+            "image" : "notion.png", 
+            "description" : "",
+            "lien" : ""
+        }, 
+        {
+            "id" : 4, 
+            "nom" : "GitHub", 
+            "image" : "github.png", 
+            "description" : "",
+            "lien" : ""
+        }, 
+        {
+            "id" : 4, 
+            "nom" : "GitLab", 
+            "image" : "gitlab.png", 
+            "description" : "",
+            "lien" : ""
+        }, 
+        {
+            "id" : 5, 
+            "nom" : "Figma", 
+            "image" : "figma.png", 
+            "description" : "",
+            "lien" : ""
+        }, 
+        {
+            "id" : 6, 
+            "nom" : "Aseprite", 
+            "image" : "aseprite.png", 
+            "description" : "",
+            "lien" : ""
+        }
+        ]
+    },
     "Projets" : {
         "ProjetsMajeurs" : [
             {
