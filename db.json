@@ -170,8 +170,8 @@
         }, 
         {
             "id" : 2, 
-            "nom" : "appsheet", 
-            "image" : "appSheet.png", 
+            "nom" : "AppSheet",
+            "image" : "appsheet.png", 
             "description" : "Plate-forme de développement sans code qui permet aux utilisateurs de créer des applications mobiles d'administration de données.",
             "lien" : "https://about.appsheet.com/home/"
         }, 
