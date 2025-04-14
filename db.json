@@ -45,7 +45,7 @@
             "id" : 9,
             "name" : "TypeScript", 
             "image" : "typescript.png",
-            "decription" : "TypeScript est un langage de programmation libre qui a pour but d'améliorer et de sécuriser la production de code JavaScript.",
+            "description" : "TypeScript est un langage de programmation libre qui a pour but d'améliorer et de sécuriser la production de code JavaScript.",
             "lien" : "https://www.typescriptlang.org"
         },
         {
