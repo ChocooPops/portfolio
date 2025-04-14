@@ -40,7 +40,14 @@
             "image" : "js.png", 
             "description" : "Langage de programmation de script employé dans des pages Web interactives.",
             "lien" : "https://developer.mozilla.org/fr/docs/Web/JavaScript"
-        }, 
+        },
+        {
+            "id" : 9,
+            "name" : "TypeScript", 
+            "image" : "typescript.png",
+            "decription" : "TypeScript est un langage de programmation libre qui a pour but d'améliorer et de sécuriser la production de code JavaScript.",
+            "lien" : "https://www.typescriptlang.org"
+        },
         {
             "id" : 3, 
             "nom" : "Java", 
@@ -151,7 +158,21 @@
             "image" : "vue.png", 
             "description" : "Framework JavaScript utilisé pour construire des applications web monopages.",
             "lien" : "https://vuejs.org/"
-        }
+        },
+        {
+            "id" : 2,
+            "nom" : "Angular", 
+            "image" : "angular.png", 
+            "description" : "Angular est un framework pour clients, open source, basé sur TypeScript",
+            "lien" : "https://angular.dev"
+        },
+        {
+            "id" : 3,
+            "nom" : "NestJs", 
+            "image" : "nestjs.png", 
+            "description" : "NestJS est un framework Web côté serveur basé sur Node.js.",
+            "lien" : "https://nestjs.com"
+        },   
     ],
         "OutilTechno" : [
         {
