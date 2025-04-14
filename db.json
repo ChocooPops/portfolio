@@ -172,7 +172,7 @@
             "image" : "nestjs.png", 
             "description" : "NestJS est un framework Web côté serveur basé sur Node.js.",
             "lien" : "https://nestjs.com"
-        },   
+        }  
     ],
         "OutilTechno" : [
         {
